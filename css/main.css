@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'Manta';
+  src: url('//static1.squarespace.com/static/57e192a2bebafb329d423d11/t/57e19beecd0f687b55ea9310/1474403310750/mixolydian+titling+5.ttf')  format('truetype') /* Safari, Android, iOS */
+}
+* {
+  font-family: 'Manta' !important;
+  
+}
