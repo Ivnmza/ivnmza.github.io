@@ -11,7 +11,7 @@ title-normal: M
 email: ivn.mza@gmail.com
 description: Ivan Meza is a creative technologist
 baseurl:  # the subpath of your site, e.g. /blog
-url: "http://imeza.xyz" # the base hostname & protocol for your site
+url: "http://imeza.xyz/" # the base hostname & protocol for your site
 author: 
 street_address: 1234 Somewhere Road
 city: Rialto
