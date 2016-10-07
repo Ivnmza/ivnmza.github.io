@@ -6,8 +6,8 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title-bold: I
-title-normal: MEZA
+title-bold: I MEZA
+title-normal: 
 email: ivn.mza@gmail.com
 description: Ivan Meza is a creative technologist
 baseurl:  # the subpath of your site, e.g. /blog
