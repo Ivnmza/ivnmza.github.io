@@ -35,9 +35,8 @@ nav-menu:
 		<header class="major">
 			<h2>Wassup World</h2>
 		</header>
-		<p>I hail from Southern California</p>
 		<ul class="actions">
-			<li><a href="landing.html" class="button next">Now</a></li>
+			<li><a href="landing.html" class="button next">Continue reading</a></li>
 		</ul>
 	</div>
 </section>
