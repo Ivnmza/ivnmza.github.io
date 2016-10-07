@@ -6,17 +6,17 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title-bold: Forty
-title-normal: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+title-bold: IMEZA
+title-normal: IMEZA
+email: ivn.mza@gmail.com
+description: Yee
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "https://andrewbanchich.gitlab.io" # the base hostname & protocol for your site
+url: "http://imeza.xyz" # the base hostname & protocol for your site
 author: 
 street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
+city: Rialto
+state: CA
+zip_code: 92376
 country: United States of America
 phone: (716) 555-5555
 
@@ -34,14 +34,14 @@ tiles-count: 6
 # Social settings
 500px_url: 
 facebook_url: 
-github_url: 
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+github_url: https://github.com/ivnmza
+gitlab_url: 
+googleplus_url: 
+instagram_url: https://instagram.com/1ivn
+linkedin_url:  
 pinterest_url: 
 slack_url: 
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: 
 
 # Build settings
 markdown: kramdown
