@@ -7,7 +7,7 @@
 
 # Site settings
 title-bold: I MEZA
-title-normal: 
+title-normal: +
 email: ivn.mza@gmail.com
 description: Your neighboorhood friendly creative technologist
 baseurl:  # the subpath of your site, e.g. /blog
