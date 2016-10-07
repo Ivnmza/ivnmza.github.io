@@ -1,11 +1,5 @@
 # Hello
 
-A Jekyll version of the "Forty" theme by [HTML5 UP](https://html5up.net/).  
-
-![Forty Theme](assets/images/forty.jpg "Forty Theme")
-
-Original README from HTML5 UP:
-
 ```
 Forty by HTML5 UP
 html5up.net | @ajlkn
