@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: Hi, my name is Ivan
+landing-title: Ivan Meza
 description: 
 image: 
 author: 
