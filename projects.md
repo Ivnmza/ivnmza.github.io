@@ -36,6 +36,7 @@ nav-menu: yes
 </section>
 
 <!-- Two -->
+{% include tiles.html %}
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
