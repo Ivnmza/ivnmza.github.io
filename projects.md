@@ -36,26 +36,27 @@ nav-menu: yes
 </section>
 
 <!-- Two -->
-{% for post in site.posts %}
-  <h2>{{ post.title }}</h2>
-{% endfor %}
 <section id="two" class="spotlights">
+	{% for post in site.posts %}
 	<section>
-		<a href="generic.html" class="image">
-			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
+  	<h2>{{ post.title }}</h2>
+	{% endfor %}
+		<a href="{{post.url}}" class="image">
+			<img src="post.image" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>post.title</h3>
 				</header>
-				<p>Nullam.</p>
+				<p>post.description</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
+	{% endfor %}
 	<section>
 		<a href="generic.html" class="image">
 			<img src="assets/images/pic09.jpg" alt="" data-position="top center" />
