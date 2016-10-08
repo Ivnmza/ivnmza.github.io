@@ -26,14 +26,6 @@ nav-menu: yes
 <div id="main">
 
 <!-- One -->
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			<h2>Projects</h2>
-		</header>
-		<p>Sometimes i'm on fire, sometimes i'm on ice.</p>
-	</div>
-</section>
 
 <!-- Two -->
 <section id="two" class="spotlights">
