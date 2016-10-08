@@ -1,7 +1,7 @@
 ---
 layout: landing
 title: Projects
-description: Here
+description: Projects are living documents, check back regularly for updates!
 image: assets/images/pic07.jpg
 nav-menu: yes
 ---
