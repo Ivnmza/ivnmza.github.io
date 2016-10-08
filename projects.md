@@ -39,16 +39,15 @@ nav-menu: yes
 <section id="two" class="spotlights">
 	{% for post in site.posts %}
 	<section>
-  	<h2>{{ post.title }}</h2>
-		<a href="{{post.url}}" class="image">
+		<a href="{{post.post_url}}" class="image">
 			<img src="{{post.image}}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>post.title</h3>
+					<h3>{{post.title}}</h3>
 				</header>
-				<p>post.description</p>
+				<p>{{post.excerpt}}</p>
 				<ul class="actions">
 					<li><a href="{{post.url}}" class="button">Learn more</a></li>
 				</ul>
