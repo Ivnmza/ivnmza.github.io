@@ -41,7 +41,7 @@ nav-menu: yes
 	<section>
   	<h2>{{ post.title }}</h2>
 		<a href="{{post.url}}" class="image">
-			<img src="post.image" alt="" data-position="center center" />
+			<img src="{{post.image}}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -50,7 +50,7 @@ nav-menu: yes
 				</header>
 				<p>post.description</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="{{post.url}}" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
