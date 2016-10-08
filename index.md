@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: <p id="name">Ivan Meza</p>
+landing-title: <style font-family:'Manta'>IVAN MEZA </style>
 description: 
 image: 
 author: 
