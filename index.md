@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: <style font-family:'Manta'>IVAN MEZA </style>
+landing-title: IVAN MEZA
 description: 
 image: 
 author: 
