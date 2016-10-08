@@ -13,15 +13,15 @@
 <nav id="menu">
 	<ul class="links">
         {% for page in site.pages %}
-		    {% if page.layout == "home" %}
-		        <li><a href="{{ page.url | prepend: site.baseurl | remove: "index.html" }}">{{ page.title }}</a></li>
+		{% if page.layout == "home" %}
+			<li><a href="{{ page.url | prepend: site.baseurl | remove: "index.html" }}">{{ page.title }}</a></li>
 	    	{% endif %}
-		{% endfor %}
-		{% for page in site.pages %}
-		    {% if page.layout != "home" %}
-		        <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
-		    {% endif %}
-		{% endfor %}
+	{% endfor %}
+	{% for page in site.pages %}
+	    {% if page.layout != "home" && page.layout != "projects" %}
+		<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+	    {% endif %}
+	{% endfor %}
 	</ul>
 	<ul class="actions vertical">
 		<li><a href="#" class="button special fit">1</a></li>
