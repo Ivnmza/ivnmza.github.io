@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: Ivan Meza
+landing-title: <p id="name">Ivan Meza</p>
 description: 
 image: 
 author: 
