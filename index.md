@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: Ivan Meza
+landing-title: IVAN MEZA
 description: 
 image: 
 author: 
