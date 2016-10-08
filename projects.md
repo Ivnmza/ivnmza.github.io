@@ -40,7 +40,6 @@ nav-menu: yes
 	{% for post in site.posts %}
 	<section>
   	<h2>{{ post.title }}</h2>
-	{% endfor %}
 		<a href="{{post.url}}" class="image">
 			<img src="post.image" alt="" data-position="center center" />
 		</a>
