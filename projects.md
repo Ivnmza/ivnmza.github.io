@@ -36,7 +36,9 @@ nav-menu: yes
 </section>
 
 <!-- Two -->
-{% include tiles.html %}
+{% for post in site.posts %}
+  <h2>{{ post.title }}</h2>
+{% endfor %}
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
