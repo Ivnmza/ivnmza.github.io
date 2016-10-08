@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <p>Project: methodFlow </p>
+title: Project_methodFlow
 description: Exploration in fluid intelligence and memory recall
 image: assets/images/ui.png
 ---
