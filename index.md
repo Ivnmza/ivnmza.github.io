@@ -32,8 +32,14 @@ nav-menu:
 <!-- Two -->
 <section id="two">
 	<div class="inner">
+		<header class="major">
+			<h1>MANTA OPS</h1>
+		</header>
+		<div class="content">
+			<p style="text-transform: uppercase;">An Exploration In Garments As Culutural Technology</p>
+		</div>
 		<ul class="actions">
-			<li><a href="posts.html" class="button next">Continue reading</a></li>
+			<li><a href="https://www.mantaops.com" class="button next">See "Healing Winds" Collection</a></li>
 		</ul>
 	</div>
 </section>
