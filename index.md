@@ -33,7 +33,7 @@ nav-menu:
 <section id="two">
 	<div class="inner">
 		<header class="major">
-			<h1>MANTA OPS</h1>
+			<h1 id="manta">MANTA OPS</h1>
 		</header>
 		<div class="content">
 			<p style="text-transform: uppercase;">An Exploration In Garments As Culutural Technology</p>
