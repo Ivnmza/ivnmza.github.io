@@ -31,7 +31,7 @@ nav-menu: yes
 <section id="two" class="spotlights">
 	{% for post in site.posts %}
 	<section>
-		<a href="{{post.post_url}}" class="image">
+		<a href="{{post.url}}" class="image">
 			<img src="{{post.image}}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
