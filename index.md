@@ -32,11 +32,8 @@ nav-menu:
 <!-- Two -->
 <section id="two">
 	<div class="inner">
-		<header class="major">
-			<h2>Human Computer Interaction</h2>
-		</header>
 		<ul class="actions">
-			<li><a href="landing.html" class="button next">Continue reading</a></li>
+			<li><a href="posts.html" class="button next">Continue reading</a></li>
 		</ul>
 	</div>
 </section>
