@@ -36,7 +36,7 @@ nav-menu:
 			<h1 style="font-size: 48px" id="manta">MANTA OPS</h1>
 		</header>
 		<div class="content">
-			<p style="text-transform: uppercase;">An Exploration In Garments As Culutural Technology</p>
+			<p style="text-transform: uppercase;">Explorations In Culutural Technology</p>
 		</div>
 		<ul class="actions">
 			<li><a href="https://www.mantaops.com" class="button next">See "Healing Winds" Collection</a></li>
