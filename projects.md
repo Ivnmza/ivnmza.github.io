@@ -29,19 +29,29 @@ nav-menu: yes
 
 <!-- Two -->
 <section id="two" class="spotlights">
+	{% for post in site.posts %}
+	<section>
+		<a href="{{post.post_url}}" class="image">
+			<img src="{{post.image}}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>{{post.title}}</h3>
+				</header>
+				<p>{{post.excerpt}}</p>
+				<ul class="actions">
+					<li><a href="{{post.url}}" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	{% endfor %}
 </section>
+
 
 <!-- Three -->
 <section id="three">
-	<div class="inner">
-		<header class="major">
-			<h2>Posts</h2>
-		</header>
-		<p>These be my thoughts </p>
-		<ul class="actions">
-			<li><a href="projects.html" class="button next">See Projects</a></li>
-		</ul>
-	</div>
 </section>
 
 </div>
