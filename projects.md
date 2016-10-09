@@ -1,7 +1,7 @@
 ---
 layout: landing
-title: Posts
-description: Read me
+title: Projects
+description: 
 image: assets/images/pic07.jpg
 nav-menu: yes
 ---
