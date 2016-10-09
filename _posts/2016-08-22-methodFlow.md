@@ -2,7 +2,7 @@
 layout: post
 title: Project_methodFlow
 description: Exploration in fluid intelligence and memory recall
-image: assets/images/ui.png
+image: assets/images/darkripple.jpg
 ---
 
-My years of progression have led me to indulge of the field of emerging technologies.
+Neuroscience. It all started in 2014 when I read about Barbara Oakley and her work in learning.
