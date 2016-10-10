@@ -1,6 +1,21 @@
 @import url(font-awesome.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,600,600italic");
 
+.vidcontent {
+  position: relative;
+  z-index: 2;
+}
+
+/* =============================================================================
+  VIDEO
+============================================================================= */
+
+.video {
+  position: fixed;
+  top: 50%; left: 50%;
+  z-index: 1;
+  transform: translate(-50%, -50%);
+}
 /*
 	Forty by HTML5 UP
 	html5up.net | @ajlkn
