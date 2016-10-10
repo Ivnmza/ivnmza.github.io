@@ -32,11 +32,15 @@ nav-menu:
 <!-- Two -->
 <section id="two">
 	<div class="inner">
+		<video playsinline autoplay muted loop poster="polina.jpg" id="bgvid">
+	    <source src="icey.webm" type="video/webm">
+	    <source src="icey.mp4" type="video/mp4">
+		</video>
 		<header class="major">
 			<h1 style="font-size: 72px" id="manta">MANTA OPS</h1>
 		</header>
 		<div class="content">
-			<p style="text-transform: uppercase;">Explorations In Culutural Technology</p>
+			<p style="text-transform: uppercase;">Explorations In Cultural Technology</p>
 		</div>
 		<ul class="actions">
 			<li><a href="http://www.mantaops.com" class="button next">See "Healing Winds" Collection</a></li>
