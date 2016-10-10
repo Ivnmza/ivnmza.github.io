@@ -33,8 +33,8 @@ nav-menu:
 <section id="two">
 	<div class="inner">
 		<video playsinline autoplay muted loop poster="polina.jpg" id="bgvid">
-	    <source src="icey.webm" type="video/webm">
-	    <source src="icey.mp4" type="video/mp4">
+	    <!-- <source src="icey.webm" type="video/webm"> -->
+	    <source src="{{ site.url }}{{ site.baseurl }}/assets/images/icey.mp4" type="video/mp4">
 		</video>
 		<header class="major">
 			<h1 style="font-size: 72px" id="manta">MANTA OPS</h1>
