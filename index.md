@@ -31,8 +31,7 @@ nav-menu:
 
 <!-- Two -->
 <section id="two">
-	<div class="inner">
-	<video id="bgvid" playsinline autoplay muted loop poster="{{ site.url }}{{ site.baseurl }}/assets/images/imezaBackground.png" id="bgvid">
+	<video id="bgvid" class="inner" playsinline autoplay muted loop poster="{{ site.url }}{{ site.baseurl }}/assets/images/imezaBackground.png" id="bgvid">
 	<!-- <source src="icey.webm" type="video/webm"> -->
 	<source src="{{ site.url }}{{ site.baseurl }}/assets/images/imezaBackground.mp4" type="video/mp4">
 	</video>
@@ -45,7 +44,6 @@ nav-menu:
 		<ul class="actions">
 			<li><a href="http://www.mantaops.com" class="button next">See "Healing Winds" Collection</a></li>
 		</ul>
-	</div>
 </section>
 
 </div>
