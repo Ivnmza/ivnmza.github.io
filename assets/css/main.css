@@ -10,11 +10,16 @@
   VIDEO
 ============================================================================= */
 
-.video {
-  position: fixed;
-  top: 50%; left: 50%;
-  z-index: 1;
-  transform: translate(-50%, -50%);
+#video {
+  display: -moz-flex;
+		display: -webkit-flex;
+		display: -ms-flex;
+		display: flex;
+		-moz-flex-wrap: wrap;
+		-webkit-flex-wrap: wrap;
+		-ms-flex-wrap: wrap;
+		flex-wrap: wrap;
+		border-top: 0 !important;
 }
 /*
 	Forty by HTML5 UP
