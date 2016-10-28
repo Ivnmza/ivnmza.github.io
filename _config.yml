@@ -8,7 +8,7 @@
 # Site settings
 title-bold: I MEZA
 title-normal: +
-email: ivn.mza@gmail.com
+email: ivan@imeza.xyz
 description: Software | Creative Technologies | Human Computer Interaction
 baseurl:  # the subpath of your site, e.g. /blog
 url: "http://imeza.xyz/" # the base hostname & protocol for your site

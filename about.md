@@ -6,4 +6,4 @@ image: assets/images/pic02.jpg
 nav-menu: yes
 ---
 
-This is a short about me.
+I am a first generation American born to Mexican immigrants in San Bernardino, CA. Being from one of the most economically & opportunistically deprived regions in California, I have come to be an advocate of technological contribution to the welfare and advancement of humanity & civilization.
