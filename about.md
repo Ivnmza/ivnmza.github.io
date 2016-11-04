@@ -2,7 +2,7 @@
 layout: post
 title: About
 description: Hi, my name is Ivan Meza
-image: assets/images/ivan.png
+image: assets/images/ivan.jpg
 nav-menu: yes
 ---
 

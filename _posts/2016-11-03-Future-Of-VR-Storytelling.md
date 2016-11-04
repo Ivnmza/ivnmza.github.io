@@ -2,7 +2,7 @@
 layout: post
 title: The Future of VR Story-Telling 
 description: Stories In Space
-image: assets/images/ui.png
+image: assets/images/banner.jpg
 ---
 
 
