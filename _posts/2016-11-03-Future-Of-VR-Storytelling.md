@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Future of VR Story-Telling 
-description: The Natural User Interface
+description: Stories In Space
 image: assets/images/ui.png
 ---
 
