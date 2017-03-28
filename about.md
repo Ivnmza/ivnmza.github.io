@@ -6,4 +6,4 @@ image: assets/images/ivan.jpg
 nav-menu: yes
 ---
 
-I'm a self-proclaimed polymath & creative from southern California.
+Ivan Meza is a self-proclaimed polymath & creative from southern California. His interests lie in the intersection of technology, global resiliency & connected culture. 
