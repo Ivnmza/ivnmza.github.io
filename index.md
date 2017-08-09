@@ -37,17 +37,6 @@ nav-menu:
 	<source src="{{ site.url }}{{ site.baseurl }}/assets/images/imezaBackground.mp4" type="video/mp4">
 	</video> 
 	-->
-	<div class="inner">
-		<header class="major">
-			<h1 style="font-size: 72px" id="manta">MANTA OPS</h1>
-		</header>
-		<div class="content">
-			<p style="text-transform: uppercase;">Explorations In Cultural Technology</p>
-		</div>
-		<ul class="actions">
-			<li><a href="http://www.mantaops.com" class="button next">See "Healing Winds" Collection</a></li>
-		</ul>
-	</div>
 </section>
 
 </div>
